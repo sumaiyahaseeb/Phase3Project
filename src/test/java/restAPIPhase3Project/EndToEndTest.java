@@ -1,4 +1,4 @@
-package com.simpliliearn.RestAPIPhase3Project;
+package restAPIPhase3Project;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
